@@ -1,0 +1,29 @@
+{
+    "date": "20/05/2017",
+    "duration (ms)": 4972,
+    "user_lifestyle": "Sedentary",
+    "start": "18:42:58",
+    "user_age": "35",
+    "trial": "watching_tv_168",
+    "path": "watching_tv/168/",
+    "mobile_device_position": "Pants Pockets",
+    "num_sensors": 4,
+    "sensors": {
+        "name": [
+            "accelerometer",
+            "gyroscope",
+            "magnetometer",
+            "sound"
+        ],
+        "frequency": [
+            "10",
+            "10",
+            "100",
+            "16000"
+        ]
+    },
+    "user_id": "9",
+    "mobile_device_name": "BQ Aquaris 5.7",
+    "end": "18:43:03",
+    "location": "Fundão"
+}
