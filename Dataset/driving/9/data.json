@@ -1,0 +1,31 @@
+{
+    "date": "06/05/2017",
+    "duration (ms)": 4495,
+    "user_lifestyle": "Active",
+    "start": "11:24:04",
+    "user_age": "21",
+    "trial": "driving_9",
+    "path": "driving/9/",
+    "mobile_device_position": "On a wristband",
+    "num_sensors": 5,
+    "sensors": {
+        "name": [
+            "accelerometer",
+            "gyroscope",
+            "location",
+            "magnetometer",
+            "sound"
+        ],
+        "frequency": [
+            "10",
+            "10",
+            "500",
+            "100",
+            "16000"
+        ]
+    },
+    "user_id": "24",
+    "mobile_device_name": "BQ Aquaris 5.7",
+    "end": "11:24:09",
+    "location": "Fundão"
+}
