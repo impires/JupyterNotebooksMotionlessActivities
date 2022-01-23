@@ -1,0 +1,29 @@
+{
+    "date": "12/05/2017",
+    "duration (ms)": 4986,
+    "user_lifestyle": "Active",
+    "start": "07:14:05",
+    "user_age": "60",
+    "trial": "sleeping_374",
+    "path": "sleeping/374/",
+    "mobile_device_position": "Over the bedside table",
+    "num_sensors": 4,
+    "sensors": {
+        "name": [
+            "accelerometer",
+            "gyroscope",
+            "magnetometer",
+            "sound"
+        ],
+        "frequency": [
+            "10",
+            "10",
+            "100",
+            "16000"
+        ]
+    },
+    "user_id": "8",
+    "mobile_device_name": "BQ Aquaris 5.7",
+    "end": "07:14:10",
+    "location": "Covilhã"
+}
