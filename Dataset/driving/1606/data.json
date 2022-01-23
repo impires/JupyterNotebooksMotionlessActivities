@@ -1,0 +1,29 @@
+{
+    "date": "31/05/2017",
+    "duration (ms)": 4963,
+    "user_lifestyle": "Sedentary",
+    "start": "14:14:56",
+    "user_age": "37",
+    "trial": "driving_1606",
+    "path": "driving/1606/",
+    "mobile_device_position": "Inside the car",
+    "num_sensors": 4,
+    "sensors": {
+        "name": [
+            "accelerometer",
+            "gyroscope",
+            "magnetometer",
+            "sound"
+        ],
+        "frequency": [
+            "10",
+            "10",
+            "100",
+            "16000"
+        ]
+    },
+    "user_id": "15",
+    "mobile_device_name": "BQ Aquaris 5.7",
+    "end": "14:15:01",
+    "location": "Covilhã"
+}
